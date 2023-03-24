@@ -29,10 +29,7 @@ Legumes (lentils and beans).
 Fruit and vegetables.
 Foods from animal sources (meat, fish, eggs and milk).
 Here is some useful information, based on WHO recommendations, to follow a healthy diet, and the benefits of doing so.</p>
-        <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
-        </p>
+       
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
           <button className="watch-video-button">
